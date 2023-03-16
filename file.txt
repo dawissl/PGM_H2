@@ -1,0 +1,12 @@
+Vytvořte vlastní větev ve formátu prijmeni_vetev
+
+Na vytvořené větvi vytvořte soubor s názvem prijmeni_soubor
+Do vytvořeného souboru napište své jmén, příjmení a dnešní datum
+
+Upravený soubor přidejte do verze (add) a vytvořte verzi s komentářem "vytvoření souboru" (commit)
+
+Připravenou verzi odešlete (push) pomocí tlačítia nasdílet změny
+
+Přes nabídnutý odkaz v pravé části visual studia vytvořte požadavek na zapracování změn (pull request)
+
+Před odesláním po Vás visual studio bude vyžadovat vyplnění přihlašovacích údajů na github
