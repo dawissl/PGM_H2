@@ -1,7 +1,7 @@
 Vytvořte vlastní větev ve formátu prijmeni_vetev
 
 Na vytvořené větvi vytvořte soubor s názvem prijmeni_soubor
-Do vytvořeného souboru napište své jmén, příjmení a dnešní datum
+Do vytvořeného souboru napište své jméno, příjmení a dnešní datum
 
 Upravený soubor přidejte do verze (add) a vytvořte verzi s komentářem "vytvoření souboru" (commit)
 
